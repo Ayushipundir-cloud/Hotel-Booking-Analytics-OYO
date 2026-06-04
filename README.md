@@ -118,8 +118,10 @@ Junior Data Analyst | Bengaluru, India
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/)
 
 ---
-<img width="893" height="483" alt="Sales Overview" src="https://github.com/user-attachments/assets/d19e1df6-53ea-4d0e-aaaf-ba17c8919269" 
+<img width="893" height="483" alt="Sales Overview" src="https://github.com/user-attachments/assets/875f4ea4-b8c1-4e5d-8466-2106b7fa88fb" />
+ 
 <img width="856" height="484" alt="Hotel Performance" src="https://github.com/user-attachments/assets/7c41b1a0-4d0d-4ea1-b4da-3af1f3ba9376" />
+
 <img width="873" height="479" alt="Booking _Channel" src="https://github.com/user-attachments/assets/eda8695c-c38b-470a-919f-e2686a81a91d" />
 
 
