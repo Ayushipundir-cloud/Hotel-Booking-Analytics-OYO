@@ -12,9 +12,9 @@ An end-to-end **Power BI dashboard** analyzing OYO Rooms' hotel operations acros
 
 ## Dashboard Overview
 
--[View Dashboard](https://github.com/Ayushipundir-cloud/Hotel-Booking-Analytics-OYO/blob/main/Sales%20Overview.png)
+-[View Dashboard]
 -[View Dashboard](https://github.com/Ayushipundir-cloud/Hotel-Booking-Analytics-OYO/blob/main/Hotel%20Performance.png)
--[View Dashboard](               (
+-[View Dashboard]               (
 
 ## 🎯 Business Objectives
 
