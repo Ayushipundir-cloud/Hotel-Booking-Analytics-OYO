@@ -1,0 +1,66 @@
+hotel_id,hotel_name,city,state,property_type,star_rating,total_rooms,location_id,place
+1,OYO Grand Inn Borivali West - 1,Mumbai,Maharashtra,Collection O,3,48,1,Borivali West
+2,OYO Elite Inn Borivali West - 2,Mumbai,Maharashtra,OYO Townhouse,4,89,1,Borivali West
+3,OYO Royal Inn Borivali West - 3,Mumbai,Maharashtra,SUNDAY Hotels,3,24,1,Borivali West
+4,OYO Grand Inn Borivali West - 4,Mumbai,Maharashtra,OYO Townhouse,3,49,1,Borivali West
+5,OYO Pearl Inn Borivali West - 5,Mumbai,Maharashtra,SUNDAY Hotels,2,91,1,Borivali West
+6,OYO Prime Inn Borivali West - 6,Mumbai,Maharashtra,SUNDAY Hotels,3,48,1,Borivali West
+7,OYO Classic Inn Koregaon Park - 1,Pune,Maharashtra,Collection O,5,20,2,Koregaon Park
+8,OYO Cozy Inn Koregaon Park - 2,Pune,Maharashtra,OYO,4,74,2,Koregaon Park
+9,OYO Comfort Inn Koregaon Park - 3,Pune,Maharashtra,Collection O,3,47,2,Koregaon Park
+10,OYO Cozy Inn Koregaon Park - 4,Pune,Maharashtra,Collection O,2,31,2,Koregaon Park
+11,OYO Sunrise Inn Koregaon Park - 5,Pune,Maharashtra,OYO Townhouse,3,64,2,Koregaon Park
+12,OYO Classic Inn Koregaon Park - 6,Pune,Maharashtra,Collection O,5,25,2,Koregaon Park
+13,OYO Luxury Inn Koregaon Park - 7,Pune,Maharashtra,Palette Hotels,4,35,2,Koregaon Park
+14,OYO Royal Inn Dharampeth - 1,Nagpur,Maharashtra,SUNDAY Hotels,3,100,3,Dharampeth
+15,OYO Classic Inn Dharampeth - 2,Nagpur,Maharashtra,Collection O,4,44,3,Dharampeth
+16,OYO Luxury Inn Dharampeth - 3,Nagpur,Maharashtra,OYO Townhouse,2,49,3,Dharampeth
+17,OYO Cozy Inn Dharampeth - 4,Nagpur,Maharashtra,Collection O,2,49,3,Dharampeth
+18,OYO Smart Inn Dharampeth - 5,Nagpur,Maharashtra,OYO Townhouse,3,55,3,Dharampeth
+19,OYO Bliss Inn Dharampeth - 6,Nagpur,Maharashtra,Collection O,3,67,3,Dharampeth
+20,OYO Comfort Inn Dharampeth - 7,Nagpur,Maharashtra,OYO,4,54,3,Dharampeth
+21,OYO Classic Inn Keshwapur - 1,Hubbli,Karnataka,OYO,4,51,4,Keshwapur
+22,OYO Elite Inn Keshwapur - 2,Hubbli,Karnataka,Palette Hotels,3,54,4,Keshwapur
+23,OYO Zen Inn Keshwapur - 3,Hubbli,Karnataka,SUNDAY Hotels,3,61,4,Keshwapur
+24,OYO Smart Inn Keshwapur - 4,Hubbli,Karnataka,OYO Townhouse,3,24,4,Keshwapur
+25,OYO Cozy Inn Keshwapur - 5,Hubbli,Karnataka,Collection O,3,54,4,Keshwapur
+26,OYO Royal Inn Keshwapur - 6,Hubbli,Karnataka,OYO,4,60,4,Keshwapur
+27,OYO Heritage Inn Koramangala - 1,Bangalore,Karnataka,Palette Hotels,3,78,5,Koramangala
+28,OYO Elite Inn Koramangala - 2,Bangalore,Karnataka,Collection O,3,51,5,Koramangala
+29,OYO Luxury Inn Koramangala - 3,Bangalore,Karnataka,SUNDAY Hotels,4,53,5,Koramangala
+30,OYO Luxury Inn Koramangala - 4,Bangalore,Karnataka,SUNDAY Hotels,3,94,5,Koramangala
+31,OYO Sunrise Inn Koramangala - 5,Bangalore,Karnataka,Collection O,3,37,5,Koramangala
+32,OYO Pearl Inn Koramangala - 6,Bangalore,Karnataka,Palette Hotels,2,26,5,Koramangala
+33,OYO Elite Inn Banjara Hills - 1,Hyderabad,Telangana,OYO,5,74,6,Banjara Hills
+34,OYO Classic Inn Banjara Hills - 2,Hyderabad,Telangana,OYO Townhouse,3,68,6,Banjara Hills
+35,OYO Classic Inn Banjara Hills - 3,Hyderabad,Telangana,Palette Hotels,4,52,6,Banjara Hills
+36,OYO Pearl Inn Banjara Hills - 4,Hyderabad,Telangana,OYO Townhouse,4,34,6,Banjara Hills
+37,OYO Heritage Inn Banjara Hills - 5,Hyderabad,Telangana,SUNDAY Hotels,5,54,6,Banjara Hills
+38,OYO Cozy Inn Banjara Hills - 6,Hyderabad,Telangana,Collection O,2,57,6,Banjara Hills
+39,OYO Elite Inn T Nagar - 1,Chennai,Tamil Nadu,Palette Hotels,2,53,7,T Nagar
+40,OYO Pearl Inn T Nagar - 2,Chennai,Tamil Nadu,OYO,4,33,7,T Nagar
+41,OYO Smart Inn T Nagar - 3,Chennai,Tamil Nadu,Collection O,5,84,7,T Nagar
+42,OYO Classic Inn T Nagar - 4,Chennai,Tamil Nadu,OYO,3,67,7,T Nagar
+43,OYO Cozy Inn T Nagar - 5,Chennai,Tamil Nadu,OYO,4,87,7,T Nagar
+44,OYO Zen Inn T Nagar - 6,Chennai,Tamil Nadu,OYO Townhouse,4,61,7,T Nagar
+45,OYO Bliss Inn T Nagar - 7,Chennai,Tamil Nadu,OYO Townhouse,2,66,7,T Nagar
+46,OYO Prime Inn Town Centre - 1,Kanniyakumari,Tamil Nadu,OYO Townhouse,3,92,8,Town Centre
+47,OYO Royal Inn Town Centre - 2,Kanniyakumari,Tamil Nadu,OYO Townhouse,4,82,8,Town Centre
+48,OYO Smart Inn Town Centre - 3,Kanniyakumari,Tamil Nadu,OYO Townhouse,5,88,8,Town Centre
+49,OYO Cozy Inn Town Centre - 4,Kanniyakumari,Tamil Nadu,OYO,3,80,8,Town Centre
+50,OYO Pearl Inn Town Centre - 5,Kanniyakumari,Tamil Nadu,OYO,3,87,8,Town Centre
+51,OYO Smart Inn Town Centre - 6,Kanniyakumari,Tamil Nadu,SUNDAY Hotels,3,47,8,Town Centre
+52,OYO Zen Inn Town Centre - 7,Kanniyakumari,Tamil Nadu,SUNDAY Hotels,5,45,8,Town Centre
+53,OYO Sunrise Inn Vijay Nagar - 1,Indore,Madhya Pradesh,Collection O,3,86,9,Vijay Nagar
+54,OYO Bliss Inn Vijay Nagar - 2,Indore,Madhya Pradesh,OYO Townhouse,3,48,9,Vijay Nagar
+55,OYO Royal Inn Vijay Nagar - 3,Indore,Madhya Pradesh,Collection O,2,95,9,Vijay Nagar
+56,OYO Pearl Inn Vijay Nagar - 4,Indore,Madhya Pradesh,OYO,4,48,9,Vijay Nagar
+57,OYO Grand Inn Vijay Nagar - 5,Indore,Madhya Pradesh,OYO Townhouse,4,100,9,Vijay Nagar
+58,OYO Grand Inn Vijay Nagar - 6,Indore,Madhya Pradesh,OYO,2,24,9,Vijay Nagar
+59,OYO Smart Inn Vijay Nagar - 7,Indore,Madhya Pradesh,Collection O,2,85,9,Vijay Nagar
+60,OYO Urban Inn Sector 18 - 1,Noida,Uttar Pradesh,Palette Hotels,3,89,10,Sector 18
+61,OYO Elite Inn Sector 18 - 2,Noida,Uttar Pradesh,SUNDAY Hotels,4,80,10,Sector 18
+62,OYO Prime Inn Sector 18 - 3,Noida,Uttar Pradesh,Palette Hotels,5,72,10,Sector 18
+63,OYO Prime Inn Sector 18 - 4,Noida,Uttar Pradesh,OYO Townhouse,2,75,10,Sector 18
+64,OYO Comfort Inn Sector 18 - 5,Noida,Uttar Pradesh,Palette Hotels,3,79,10,Sector 18
+65,OYO Smart Inn Sector 18 - 6,Noida,Uttar Pradesh,OYO Townhouse,4,32,10,Sector 18

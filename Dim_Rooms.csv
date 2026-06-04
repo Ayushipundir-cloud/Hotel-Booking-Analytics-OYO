@@ -1,0 +1,326 @@
+room_id,hotel_id,room_type,amenities,max_guests,base_price
+1,1,Standard,"WiFi, AC, TV, Hot Water",2,862
+2,1,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1912
+3,1,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3991
+4,1,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5389
+5,1,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,13558
+6,2,Standard,"WiFi, AC, TV, Hot Water",2,911
+7,2,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1754
+8,2,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2892
+9,2,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4779
+10,2,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11393
+11,3,Standard,"WiFi, AC, TV, Hot Water",2,1259
+12,3,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1643
+13,3,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3364
+14,3,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4751
+15,3,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9281
+16,4,Standard,"WiFi, AC, TV, Hot Water",2,1273
+17,4,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1755
+18,4,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2654
+19,4,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5815
+20,4,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,13619
+21,5,Standard,"WiFi, AC, TV, Hot Water",2,1363
+22,5,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1600
+23,5,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2603
+24,5,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6671
+25,5,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11428
+26,6,Standard,"WiFi, AC, TV, Hot Water",2,815
+27,6,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2492
+28,6,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2691
+29,6,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4968
+30,6,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8362
+31,7,Standard,"WiFi, AC, TV, Hot Water",2,1216
+32,7,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1997
+33,7,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3485
+34,7,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4875
+35,7,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14083
+36,8,Standard,"WiFi, AC, TV, Hot Water",2,1210
+37,8,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2424
+38,8,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2620
+39,8,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4674
+40,8,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10104
+41,9,Standard,"WiFi, AC, TV, Hot Water",2,802
+42,9,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1899
+43,9,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3043
+44,9,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5863
+45,9,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9336
+46,10,Standard,"WiFi, AC, TV, Hot Water",2,1233
+47,10,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2213
+48,10,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3996
+49,10,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6276
+50,10,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,12422
+51,11,Standard,"WiFi, AC, TV, Hot Water",2,1298
+52,11,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1658
+53,11,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2888
+54,11,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5215
+55,11,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8783
+56,12,Standard,"WiFi, AC, TV, Hot Water",2,859
+57,12,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2093
+58,12,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3610
+59,12,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4249
+60,12,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,13127
+61,13,Standard,"WiFi, AC, TV, Hot Water",2,1121
+62,13,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1558
+63,13,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2602
+64,13,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6392
+65,13,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10905
+66,14,Standard,"WiFi, AC, TV, Hot Water",2,1314
+67,14,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2441
+68,14,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3587
+69,14,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4644
+70,14,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7465
+71,15,Standard,"WiFi, AC, TV, Hot Water",2,1320
+72,15,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1582
+73,15,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2880
+74,15,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4280
+75,15,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11874
+76,16,Standard,"WiFi, AC, TV, Hot Water",2,869
+77,16,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2191
+78,16,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2981
+79,16,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5653
+80,16,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7982
+81,17,Standard,"WiFi, AC, TV, Hot Water",2,1383
+82,17,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1752
+83,17,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3685
+84,17,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6435
+85,17,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7325
+86,18,Standard,"WiFi, AC, TV, Hot Water",2,1434
+87,18,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1583
+88,18,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3358
+89,18,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6692
+90,18,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11781
+91,19,Standard,"WiFi, AC, TV, Hot Water",2,1378
+92,19,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2035
+93,19,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3147
+94,19,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5068
+95,19,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8673
+96,20,Standard,"WiFi, AC, TV, Hot Water",2,1485
+97,20,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2233
+98,20,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3143
+99,20,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4977
+100,20,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9175
+101,21,Standard,"WiFi, AC, TV, Hot Water",2,1205
+102,21,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1634
+103,21,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3875
+104,21,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6643
+105,21,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9457
+106,22,Standard,"WiFi, AC, TV, Hot Water",2,1268
+107,22,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1823
+108,22,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2648
+109,22,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4038
+110,22,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10754
+111,23,Standard,"WiFi, AC, TV, Hot Water",2,1436
+112,23,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2076
+113,23,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2704
+114,23,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4300
+115,23,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11404
+116,24,Standard,"WiFi, AC, TV, Hot Water",2,1018
+117,24,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2018
+118,24,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3043
+119,24,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4542
+120,24,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14645
+121,25,Standard,"WiFi, AC, TV, Hot Water",2,1157
+122,25,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2402
+123,25,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2640
+124,25,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5000
+125,25,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10027
+126,26,Standard,"WiFi, AC, TV, Hot Water",2,1091
+127,26,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1661
+128,26,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3397
+129,26,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6225
+130,26,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,12763
+131,27,Standard,"WiFi, AC, TV, Hot Water",2,1109
+132,27,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2126
+133,27,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3839
+134,27,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6166
+135,27,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7064
+136,28,Standard,"WiFi, AC, TV, Hot Water",2,1483
+137,28,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2336
+138,28,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3635
+139,28,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5226
+140,28,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14632
+141,29,Standard,"WiFi, AC, TV, Hot Water",2,1479
+142,29,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1606
+143,29,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2775
+144,29,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5083
+145,29,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7945
+146,30,Standard,"WiFi, AC, TV, Hot Water",2,909
+147,30,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2260
+148,30,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3633
+149,30,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4636
+150,30,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9231
+151,31,Standard,"WiFi, AC, TV, Hot Water",2,1088
+152,31,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2119
+153,31,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2931
+154,31,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6939
+155,31,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9808
+156,32,Standard,"WiFi, AC, TV, Hot Water",2,1008
+157,32,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2203
+158,32,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3798
+159,32,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5081
+160,32,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11140
+161,33,Standard,"WiFi, AC, TV, Hot Water",2,1300
+162,33,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1757
+163,33,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2604
+164,33,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4378
+165,33,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,12196
+166,34,Standard,"WiFi, AC, TV, Hot Water",2,1233
+167,34,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2349
+168,34,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3066
+169,34,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4180
+170,34,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7029
+171,35,Standard,"WiFi, AC, TV, Hot Water",2,1141
+172,35,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2289
+173,35,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2767
+174,35,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6609
+175,35,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9145
+176,36,Standard,"WiFi, AC, TV, Hot Water",2,965
+177,36,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2259
+178,36,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3404
+179,36,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6259
+180,36,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,12780
+181,37,Standard,"WiFi, AC, TV, Hot Water",2,1237
+182,37,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2074
+183,37,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2519
+184,37,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4458
+185,37,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7616
+186,38,Standard,"WiFi, AC, TV, Hot Water",2,952
+187,38,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2058
+188,38,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2573
+189,38,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5512
+190,38,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11771
+191,39,Standard,"WiFi, AC, TV, Hot Water",2,1365
+192,39,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1651
+193,39,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3380
+194,39,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4522
+195,39,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7342
+196,40,Standard,"WiFi, AC, TV, Hot Water",2,1115
+197,40,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1873
+198,40,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2581
+199,40,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5465
+200,40,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8720
+201,41,Standard,"WiFi, AC, TV, Hot Water",2,1498
+202,41,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1755
+203,41,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3865
+204,41,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4421
+205,41,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9897
+206,42,Standard,"WiFi, AC, TV, Hot Water",2,1373
+207,42,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2405
+208,42,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3332
+209,42,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6542
+210,42,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,13139
+211,43,Standard,"WiFi, AC, TV, Hot Water",2,958
+212,43,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2447
+213,43,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2984
+214,43,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4665
+215,43,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14997
+216,44,Standard,"WiFi, AC, TV, Hot Water",2,981
+217,44,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2402
+218,44,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3344
+219,44,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4101
+220,44,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8469
+221,45,Standard,"WiFi, AC, TV, Hot Water",2,1140
+222,45,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2301
+223,45,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3343
+224,45,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6743
+225,45,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14078
+226,46,Standard,"WiFi, AC, TV, Hot Water",2,1054
+227,46,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1773
+228,46,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2826
+229,46,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6872
+230,46,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7885
+231,47,Standard,"WiFi, AC, TV, Hot Water",2,1191
+232,47,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2393
+233,47,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2579
+234,47,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5927
+235,47,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8822
+236,48,Standard,"WiFi, AC, TV, Hot Water",2,1004
+237,48,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2336
+238,48,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3442
+239,48,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5432
+240,48,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9500
+241,49,Standard,"WiFi, AC, TV, Hot Water",2,1033
+242,49,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1728
+243,49,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2548
+244,49,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6703
+245,49,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8582
+246,50,Standard,"WiFi, AC, TV, Hot Water",2,1208
+247,50,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1836
+248,50,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3070
+249,50,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4284
+250,50,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14920
+251,51,Standard,"WiFi, AC, TV, Hot Water",2,1085
+252,51,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1859
+253,51,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3813
+254,51,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6086
+255,51,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10274
+256,52,Standard,"WiFi, AC, TV, Hot Water",2,1495
+257,52,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2363
+258,52,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3598
+259,52,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5356
+260,52,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14694
+261,53,Standard,"WiFi, AC, TV, Hot Water",2,828
+262,53,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1618
+263,53,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3034
+264,53,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,4731
+265,53,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11756
+266,54,Standard,"WiFi, AC, TV, Hot Water",2,1071
+267,54,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1539
+268,54,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2722
+269,54,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6443
+270,54,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10559
+271,55,Standard,"WiFi, AC, TV, Hot Water",2,1153
+272,55,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2246
+273,55,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3142
+274,55,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5787
+275,55,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11966
+276,56,Standard,"WiFi, AC, TV, Hot Water",2,1323
+277,56,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1618
+278,56,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3288
+279,56,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6361
+280,56,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,8557
+281,57,Standard,"WiFi, AC, TV, Hot Water",2,1060
+282,57,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1545
+283,57,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3951
+284,57,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5786
+285,57,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7013
+286,58,Standard,"WiFi, AC, TV, Hot Water",2,1332
+287,58,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2447
+288,58,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3602
+289,58,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6813
+290,58,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,12893
+291,59,Standard,"WiFi, AC, TV, Hot Water",2,1486
+292,59,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1701
+293,59,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3245
+294,59,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5766
+295,59,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,7573
+296,60,Standard,"WiFi, AC, TV, Hot Water",2,1480
+297,60,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2442
+298,60,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3176
+299,60,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6552
+300,60,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,9571
+301,61,Standard,"WiFi, AC, TV, Hot Water",2,1479
+302,61,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2368
+303,61,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2755
+304,61,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6948
+305,61,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14373
+306,62,Standard,"WiFi, AC, TV, Hot Water",2,1107
+307,62,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2019
+308,62,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3133
+309,62,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6731
+310,62,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,10345
+311,63,Standard,"WiFi, AC, TV, Hot Water",2,1134
+312,63,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1912
+313,63,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3927
+314,63,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,5211
+315,63,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11541
+316,64,Standard,"WiFi, AC, TV, Hot Water",2,930
+317,64,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,1696
+318,64,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,3361
+319,64,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6723
+320,64,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,14703
+321,65,Standard,"WiFi, AC, TV, Hot Water",2,1188
+322,65,Deluxe,"WiFi, AC, TV, Mini-Fridge, Work Desk",2,2193
+323,65,Premium,"WiFi, AC, Smart TV, Mini-Fridge, Bathtub, Work Desk",3,2856
+324,65,Suite,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Bathtub, Work Desk",4,6521
+325,65,Luxury,"WiFi, AC, Smart TV, Mini-Bar, Jacuzzi, Butler Service, Private Balcony",4,11662

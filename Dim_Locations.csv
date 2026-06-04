@@ -1,0 +1,11 @@
+location_id,region,city,state,tier,latitude,longitude,place
+1,Borivali West,Mumbai,Maharashtra,Metro,19.2307,72.8567,Borivali West
+2,Koregaon Park,Pune,Maharashtra,Metro,18.5362,73.894,Koregaon Park
+3,Dharampeth,Nagpur,Maharashtra,Tier-2,21.1418,79.0884,Dharampeth
+4,Keshwapur,Hubbli,Karnataka,Tier-2,15.3547,75.1152,Keshwapur
+5,Koramangala,Bangalore,Karnataka,Metro,12.9352,77.6245,Koramangala
+6,Banjara Hills,Hyderabad,Telangana,Metro,17.4126,78.448,Banjara Hills
+7,T Nagar,Chennai,Tamil Nadu,Metro,13.0418,80.2341,T Nagar
+8,Town Centre,Kanniyakumari,Tamil Nadu,Tier-3,8.0883,77.5385,Town Centre
+9,Vijay Nagar,Indore,Madhya Pradesh,Tier-2,22.756,75.8761,Vijay Nagar
+10,Sector 18,Noida,Uttar Pradesh,Metro,28.5699,77.3226,Sector 18
