@@ -1,7 +1,5 @@
 # 🏨 OYO Rooms – Hotel Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Domain](https://img.shields.io/badge/Domain-Hospitality%20Analytics-blue?style=for-the-badge)
 
 ---
@@ -11,6 +9,10 @@
 An end-to-end **Power BI dashboard** analyzing OYO Rooms' hotel operations across key business dimensions — revenue performance, hotel-level metrics, and booking channel behaviour. The report surfaces actionable insights for hospitality managers and business analysts to optimize occupancy, pricing strategy, and customer acquisition channels.
 
 ---
+
+## Dashboard Overview
+
+-[View Dashboard]
 
 ## 🎯 Business Objectives
 
